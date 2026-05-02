@@ -160,6 +160,10 @@
 		{
 			"Name": "DMXPixelMapping",
 			"Enabled": true
+		},
+		{
+			"Name": "Switchboard",
+			"Enabled": true
 		}
 	]
 }
