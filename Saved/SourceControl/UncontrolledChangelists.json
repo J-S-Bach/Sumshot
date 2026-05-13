@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Constantin/Documents/Unreal Projects/Sumshot 5.6/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Constantin/Documents/Unreal Projects/Sumshot 5.6/Content/nDisplay/NDC_Basic.uasset",
+				"C:/Users/Constantin/Documents/Unreal Projects/Sumshot 5.6/Content/Main.umap",
+				"C:/Users/Constantin/Documents/Unreal Projects/Sumshot 5.6/Content/NewDMXControlConsole.uasset",
 				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"C:/Users/VR Group/Downloads/DMX Light Demo Unreal/DMX Light Demo Unreal/Content/Main.umap",
 				"C:/Users/VR Group/Downloads/DMX Light Demo Unreal/DMX Light Demo Unreal/Content/DMX/LEDStrip_IP26.uasset",
