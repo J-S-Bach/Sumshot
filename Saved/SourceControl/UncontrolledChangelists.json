@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Constantin/Documents/Unreal Projects/Sumshot/Content/Assets/BP_Block.uasset",
+				"C:/Users/Constantin/Documents/Unreal Projects/Sumshot/Content/Assets/Blueprints/BP_Block.uasset",
+				"C:/Users/Constantin/Documents/Unreal Projects/Sumshot/Content/Assets/Materials/M_Block.uasset",
 				"C:/Users/Constantin/Documents/Unreal Projects/Sumshot 5.6/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Constantin/Documents/Unreal Projects/Sumshot 5.6/Content/nDisplay/NDC_Basic.uasset",
 				"C:/Users/Constantin/Documents/Unreal Projects/Sumshot 5.6/Content/Main.umap",

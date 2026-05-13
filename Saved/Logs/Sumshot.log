@@ -1656,3 +1656,119 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2026.05.13-14.43.03:368][429]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.13-14.43.03:368][429]AssetCheck: /Game/Assets/BP_Block Validating asset
 [2026.05.13-14.43.03:392][429]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Constantin/Documents/Unreal Projects/Sumshot/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.13-14.43.39:108][837]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/BP_Block.BP_Block
+[2026.05.13-14.43.39:109][837]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.05.13-14.43.39:301][837]LogStreaming: Display: FlushAsyncLoading(412): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-14.43.46:770][129]LogSlate: Window 'BP_Block' being destroyed
+[2026.05.13-14.45.30:716][343]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.05.13-14.45.30:956][346]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.05.13-14.45.31:012][347]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.05.13-14.46.01:753][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2026.05.13-14.46.09:294][567]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.05.13-14.46.09:305][567]LogContentBrowser: Creating deferred item: NewFolder
+[2026.05.13-14.46.09:316][568]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.05.13-14.46.15:314][923]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2026.05.13-14.46.15:316][923]LogContentBrowser: End creating deferred item NewFolder
+[2026.05.13-14.46.19:846][154]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.13-14.46.19:846][154]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Blueprints/BP_Block] ([2] browsable assets)...
+[2026.05.13-14.46.19:881][154]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/BP_Block.BP_Block]
+[2026.05.13-14.46.19:881][154]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/BP_Block]
+[2026.05.13-14.46.19:881][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/BP_Block" FILE="../../../../../../Users/Constantin/Documents/Unreal Projects/Sumshot/Content/Assets/Blueprints/BP_Block.uasset" SILENT=true
+[2026.05.13-14.46.19:886][154]LogSavePackage: Moving output files for package: /Game/Assets/Blueprints/BP_Block
+[2026.05.13-14.46.19:886][154]LogSavePackage: Moving '../../../../../../Users/Constantin/Documents/Unreal Projects/Sumshot/Saved/BP_BlockC6D0E4F14775961700D668BE621D197B.tmp' to '../../../../../../Users/Constantin/Documents/Unreal Projects/Sumshot/Content/Assets/Blueprints/BP_Block.uasset'
+[2026.05.13-14.46.19:893][154]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.013 ms (total: 131.298 ms)
+[2026.05.13-14.46.19:991][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.05.13-14.46.20:039][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.05.13-14.46.20:087][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.05.13-14.46.20:147][154]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.05.13-14.46.20:147][154]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.13-14.46.20:147][154]LogContentValidation: Enabled validators:
+[2026.05.13-14.46.20:147][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.13-14.46.20:147][154]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.13-14.46.20:147][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.13-14.46.20:147][154]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.13-14.46.20:147][154]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.13-14.46.20:147][154]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.13-14.46.20:147][154]AssetCheck: /Game/Assets/Blueprints/BP_Block Validating asset
+[2026.05.13-14.46.20:163][154]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Constantin/Documents/Unreal Projects/Sumshot/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.13-14.46.22:240][261]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.05.13-14.46.22:297][261]LogContentBrowser: Creating deferred item: NewFolder
+[2026.05.13-14.46.22:310][262]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.05.13-14.46.28:149][613]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2026.05.13-14.46.28:150][613]LogContentBrowser: End creating deferred item NewFolder
+[2026.05.13-14.46.30:836][755]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 334.689667
+[2026.05.13-14.46.31:036][767]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.13-14.46.31:036][767]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 334.872742, Update Interval: 303.380219
+[2026.05.13-14.46.32:640][860]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.05.13-14.46.32:651][860]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.05.13-14.46.32:688][862]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.05.13-14.46.37:062][119]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Block
+[2026.05.13-14.46.37:064][119]LogContentBrowser: End creating deferred item NewMaterial
+[2026.05.13-14.46.46:354][668]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Materials/M_Block.M_Block
+[2026.05.13-14.46.46:370][668]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.05.13-14.46.46:378][668]LogStreaming: Display: FlushAsyncLoading(683): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.13-14.46.47:012][668]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.13-14.46.47:012][668]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.13-14.46.47:012][668]MaterialEditorStats: Shader Count: 0
+[2026.05.13-14.46.47:012][668]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.13-14.46.47:020][668]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.05.13-14.46.47:161][670]MaterialEditorStats: Base pass shader: 202 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.13-14.46.47:161][670]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.13-14.46.47:161][670]MaterialEditorStats: Texture samplers: 2/16
+[2026.05.13-14.46.47:161][670]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.13-14.46.47:161][670]MaterialEditorStats: Shader Count: 5
+[2026.05.13-14.46.47:161][670]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.13-14.47.04:927][176]LogSlate: Window 'Color Picker' being destroyed
+[2026.05.13-14.47.20:438][437]LogMaterialEditor: Saving and Compiling material M_Block
+[2026.05.13-14.47.20:572][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.05.13-14.47.22:712][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2026.05.13-14.47.22:724][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.13-14.47.22:805][437]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/M_Block] ([1] browsable assets)...
+[2026.05.13-14.47.22:845][437]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Materials/M_Block.M_Block]
+[2026.05.13-14.47.22:845][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/M_Block]
+[2026.05.13-14.47.22:845][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/M_Block" FILE="../../../../../../Users/Constantin/Documents/Unreal Projects/Sumshot/Content/Assets/Materials/M_Block.uasset" SILENT=true
+[2026.05.13-14.47.22:847][437]LogSavePackage: Moving output files for package: /Game/Assets/Materials/M_Block
+[2026.05.13-14.47.22:847][437]LogSavePackage: Moving '../../../../../../Users/Constantin/Documents/Unreal Projects/Sumshot/Saved/M_Block88857C754397D1CB727EFF86CF19C2DB.tmp' to '../../../../../../Users/Constantin/Documents/Unreal Projects/Sumshot/Content/Assets/Materials/M_Block.uasset'
+[2026.05.13-14.47.22:855][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.307 ms (total: 261.606 ms)
+[2026.05.13-14.47.22:936][437]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.13-14.47.22:937][437]LogContentValidation: Enabled validators:
+[2026.05.13-14.47.22:937][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.13-14.47.22:937][437]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.13-14.47.22:937][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.13-14.47.22:937][437]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.13-14.47.22:937][437]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.13-14.47.22:937][437]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.13-14.47.22:937][437]AssetCheck: /Game/Assets/Materials/M_Block Validating asset
+[2026.05.13-14.47.22:950][437]MaterialEditorStats: Base pass shader: 202 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.13-14.47.22:950][437]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.13-14.47.22:950][437]MaterialEditorStats: MaxSampler: 265 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.05.13-14.47.22:950][437]MaterialEditorStats: Texture samplers: 3/16
+[2026.05.13-14.47.22:950][437]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.13-14.47.22:951][437]MaterialEditorStats: Shader Count: 35
+[2026.05.13-14.47.22:951][437]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.13-14.47.22:974][437]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Constantin/Documents/Unreal Projects/Sumshot/Saved/SourceControl/UncontrolledChangelists.json
