@@ -7,6 +7,10 @@
 			"files": [
 				"C:/Users/sebas/Unreal Engine/Sumshot_2/Content/Assets/Blueprints/BP_Hand.uasset",
 				"C:/Users/sebas/Unreal Engine/Sumshot_2/Content/Main.umap",
+				"C:/Users/sebas/Unreal Engine/Sumshot_2/Content/Assets/Materials/Texture_CeilingLights.uasset",
+				"C:/Users/sebas/Unreal Engine/Sumshot_2/Content/Assets/Materials/PixelMapping_Ceiling_Traces.uasset",
+				"C:/Users/sebas/Unreal Engine/Sumshot_2/Content/Assets/Materials/CeilingLight_CanvasRenderTarget.uasset",
+				"C:/Users/sebas/Unreal Engine/Sumshot_2/Content/DMX/PixelMapping/PixelMapper_DefaultLayout.uasset",
 				"C:/Users/Constantin/Documents/Unreal Projects/Sumshot/Content/Assets/BP_Block.uasset",
 				"C:/Users/Constantin/Documents/Unreal Projects/Sumshot/Content/Assets/Blueprints/BP_Block.uasset",
 				"C:/Users/Constantin/Documents/Unreal Projects/Sumshot/Content/Assets/Materials/M_Block.uasset",
